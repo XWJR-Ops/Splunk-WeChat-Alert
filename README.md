@@ -31,6 +31,9 @@ chmod 755 /opt/splunk/bin/scripts/splunk.py
 ```
 4. splunk创建告警
 splunk创建告警时，触发操作选择运行脚本，脚本名称**splunk.py**
+5. 修改脚本中的**corp_id、secret、tag_id、agent_id**
+6. splunk创建告警
+splunk创建告警时，触发操作选择运行脚本，脚本名称**splunk.py**
 
 
 
